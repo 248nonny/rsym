@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "4a00ab4e725f9187",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eea4789a5a2bc54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fd92ed3da431f00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Integrator/Symbolic Integration - ChatGPTs suggestions on steps to take..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Symbolic Integration - ChatGPTs suggestions on steps to take."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d51f3fa89809493",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddcb3c65809897c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "235bae534e6ced0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0bb6e12e7b70225a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "70233ea431342886",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f2958f62064c76d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4920042d8382b1f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a15fd257e5697c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Integrator/Symbolic Integration - ChatGPTs suggestions on steps to take..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Symbolic Integration - ChatGPTs suggestions on steps to take."
+            }
+          },
+          {
+            "id": "c3326e82b00a5fa0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Integrator/Symbolic Integration - ChatGPTs suggestions on steps to take..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Symbolic Integration - ChatGPTs suggestions on steps to take."
+            }
+          },
+          {
+            "id": "0d0b47def7d69ca0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "232998755a7a744f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Integrator/Symbolic Integration - ChatGPTs suggestions on steps to take..md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Symbolic Integration - ChatGPTs suggestions on steps to take."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8fd92ed3da431f00",
+  "lastOpenFiles": [
+    "To-do.md",
+    "Integrator/Symbolic Integration - ChatGPTs suggestions on steps to take..md",
+    "Integrator",
+    "4 Operation Parser",
+    "Differentiator"
+  ]
+}

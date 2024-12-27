@@ -1,0 +1,6 @@
+# no build stuff
+target/
+
+# vim stuff
+*.swp
+*.swo

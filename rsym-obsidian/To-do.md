@@ -1,0 +1,4 @@
+- [ ] Simple 4 operation parser (+, -, \*, \/), following order of operations from string
+- [ ] Create a Symbolic Differentiator
+	- [ ] Figure out how to represent broader functions / **expressions**
+	- [ ] Figure out how to parse strings to read general expressions

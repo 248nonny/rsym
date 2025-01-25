@@ -1,0 +1,25 @@
+math = { eq ~ EOI}
+
+eq                = { add_sub_expr ~ ("=" ~ add_sub_expr)? }
+
+add_sub_expr      = { mul_div_expr ~ (( add | sub ) ~ mul_div_expr)? }
+mul_div_expr      = { exp_expr ~ (( mul | div ) ~ exp_expr )? }
+exp_expr          = { atomic_expr ~ ( exp ~ atomic_expr )? }
+
+atomic_expr       = { "(" ~ add_sub_expr ~ ")" | fn | num }
+
+fn    = { "\\" ~ fn_id ~ atomic_expr }
+num   = @{ NUMBER+ }
+
+fn_id = { sin | cos }
+sin = { "sin" }
+cos = { "cos" }
+
+
+add = @{ "+" }
+sub = @{ "-" }
+mul = @{ "*" }
+div = @{ "/" }
+exp = @{ "^" }
+
+WHITESPACE = _{" " | "\t"}

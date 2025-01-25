@@ -4,3 +4,6 @@ target/
 # vim stuff
 *.swp
 *.swo
+
+# research docs
+axiom_docs/
